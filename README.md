@@ -66,19 +66,43 @@ endmodule
 ```
 
 ### Output:
-### RTL
+
 ### TIMING DIAGRAM
 
 HALF ADDER
-![time1 (1)](https://user-images.githubusercontent.com/120367796/231668166-743855ff-8c7d-4314-97cd-28305469c9d1.png)
+![half adder time](https://user-images.githubusercontent.com/120367796/232683223-f9743a16-702c-4914-981e-10a3cd6fb7b7.png)
 
 FULL ADDER
-![time2 (2)](https://user-images.githubusercontent.com/120367796/231668377-25aa5b7b-0c2f-4f9e-b2e5-ad31bedf1785.png)
+![image](https://user-images.githubusercontent.com/120367796/232683146-987f2322-014e-422a-a906-ab5c0fffac93.png)
 
 
+### RTL
+
+HALF ADDER
+![image](https://user-images.githubusercontent.com/120367796/232683957-510252ee-e3a4-48f8-b26a-3eeba488c2b5.png)
+
+FULL ADDER
+![full adder rtl](https://user-images.githubusercontent.com/120367796/232684002-09fc37c4-9bb3-4289-b179-0c2fc6ad81f0.png)
 
 
+## TRUTH TABLE
 
-### TRUTH TABLE 
+HALF ADDER
+![image](https://user-images.githubusercontent.com/120367796/232685416-a5699dea-43d3-4646-8470-cb23fd7e298c.png)
+
+FULL ADDER
+![image](https://user-images.githubusercontent.com/120367796/232685444-c72487f6-55a7-47ff-a594-3c5d861bb208.png)
+
+
+## LOGIC SYMBOL
+
+HALF ADDER
+![ha logic](https://user-images.githubusercontent.com/120367796/232685258-6de83d55-4bf3-4ca5-bf2a-9bda62f025ad.png)
+
+FULL ADDER
+![image](https://user-images.githubusercontent.com/120367796/232685330-4ec237b6-ae9e-4f89-82b4-26ec467b45a9.png)
+
 
 ### Result:
+Thus the Implementation of Half Adder and Full Adder circuit are studied and the truth table for different logic gates are verified.
+
