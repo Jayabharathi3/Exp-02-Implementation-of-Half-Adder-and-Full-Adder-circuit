@@ -88,18 +88,22 @@ FULL ADDER
 ## TRUTH TABLE
 
 HALF ADDER
+
 ![image](https://user-images.githubusercontent.com/120367796/232685416-a5699dea-43d3-4646-8470-cb23fd7e298c.png)
 
 FULL ADDER
+
 ![image](https://user-images.githubusercontent.com/120367796/232685444-c72487f6-55a7-47ff-a594-3c5d861bb208.png)
 
 
 ## LOGIC SYMBOL
 
 HALF ADDER
+
 ![ha logic](https://user-images.githubusercontent.com/120367796/232685258-6de83d55-4bf3-4ca5-bf2a-9bda62f025ad.png)
 
 FULL ADDER
+
 ![image](https://user-images.githubusercontent.com/120367796/232685330-4ec237b6-ae9e-4f89-82b4-26ec467b45a9.png)
 
 
